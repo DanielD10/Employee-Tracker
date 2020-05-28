@@ -1,0 +1,21 @@
+{
+  "name": "12-employee-tracker",
+  "version": "1.0.0",
+  "description": "> Command line interface for tracking employees within a company.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielD10/Employee-Tracker"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielD10/Employee-Tracker/issues"
+  }
+}
